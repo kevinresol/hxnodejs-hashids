@@ -1,0 +1,14 @@
+{
+    "name": "hxnodejs-hashids",
+    "url": "https://github.com/kevinresol/hxnodejs-hashids",
+    "license": "MIT",
+    "classPath": "src",
+    "tags": ["nodejs", "hashids"],
+    "description": "Externs for the hashids NPM module",
+    "releasenote": "Initial commit",
+    "version": "1.0.0",
+    "contributors": ["kevinresol"],
+    "dependencies": {
+        "js-kit": ""
+    }
+}
